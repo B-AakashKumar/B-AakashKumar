@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @B-AakashKumar
 - 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on startup companies
 - 📫 How to reach me balamuruganmaakash@gmail.com
 
